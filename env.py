@@ -6,5 +6,7 @@ os.environ["STRIPE_PUBLIC_KEY"] = 'pk_test_51RXgVO4EprSnJzaKaXpXGWvkOnZDZQgxdrHz
 os.environ["STRIPE_SECRET_KEY"] = "sk_test_51RXgVO4EprSnJzaKtYL7dmbqHEUeEZR2HUHi4TGBFMkLH9O0sa5UMWbDaEALl2Ayxmf2QuLfWxu8Z4aLQebNPItb000T2bKmc7"
 os.environ.setdefault('STRIPE_WH_SECRET', 'whsec_eb25deb6f388ff903ca95074bcb78d0a394157398b21546c830bbdcabeebe19e')
 os.environ.setdefault('DEVELOPMENT', '1')
+os.environ['SECRET_KEY'] = 'django-insecure-e)g17$u9to!e&infkp1jqt9&dt0px-s3d6sd7r8=4^*epady7w'
+
 
 
